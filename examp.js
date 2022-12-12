@@ -1,0 +1,1 @@
+fetch(`localhost:4000/converter/${car_value}/${risk_rating}`)
